@@ -8,8 +8,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/cap79/BasicApiServer/apiserver"
-	"github.com/cap79/BasicApiServer/config"
+	"github.com/Kappy13/BasicApiServer/apiserver"
+	"github.com/Kappy13/BasicApiServer/config"
 )
 
 func Run() error {
