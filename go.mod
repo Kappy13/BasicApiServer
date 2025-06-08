@@ -1,4 +1,4 @@
-module github.com/cap79/BasicApiServer
+module github.com/Kappy13/BasicApiServer
 
 go 1.23.4
 
