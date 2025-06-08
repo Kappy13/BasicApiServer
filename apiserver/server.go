@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Kappy13/BasicApiServer/config"
+	"github.com/cappstr/BasicApiServer/config"
 )
 
 type ApiServer struct {
